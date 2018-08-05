@@ -1,0 +1,124 @@
+@media screen and (min-width: 320px){
+	h1{
+		display: block;
+		text-align: center;
+	}
+
+	body{
+		padding: 8px;
+	}
+
+	.score-panel{
+		width: 100%;
+		padding: 0 10px;
+	}
+
+	.fa-repeat {
+		right: 120px;
+	}
+
+	.deck{
+		min-height: 400px;
+		width: 100%;
+    	padding: 20px 18px;
+    	margin: 15px 0 0 ;
+	}
+
+	.deck .card{
+		width: 57px;
+   		height: 58px;
+	}
+
+	.deck .card.show{
+		font-size: 22px;
+	}
+}
+
+@media screen and (min-width: 337px){
+	.deck{
+		height: 400px;
+		max-height: 600px;
+		width: 100%;
+    	padding: 20px 18px;
+    	margin: 15px 0 0 ;
+	}
+
+	.deck .card{
+		width: 21%;
+		height: 70px;
+		max-width: 125px;
+   		max-height: 125px;
+	}
+
+	.deck .card.show{
+		font-size: 160%;
+	}
+
+	.fa-repeat {
+		right: 150px;
+	}
+}
+
+@media screen and (min-width: 440px){
+
+	.score-panel{
+		width: 80%;
+	}
+
+	.deck{
+		height: 500px;
+		padding: 20px 35px;
+	}
+
+	.deck .card{
+		height: 80px;
+	}
+
+	.fa-repeat {
+		text-align: center;
+	}
+}
+
+@media screen and (min-width: 540px){
+	body{
+		padding: 0 24px;
+	}
+
+	.deck{
+		height: 550px;
+		padding: 40px;
+	}
+
+	.deck .card{
+		width: 22%;
+		height: 90px;
+	}
+
+	.deck .card.show{
+		font-size: 28px;
+	}
+}
+
+@media screen and (min-width: 700px){
+	body{
+		padding: 0 60px;
+	}
+
+	.fa-repeat {
+		right: 200px;
+	}
+
+	.deck{
+		height: 570px;
+		padding: 10px 30px;
+	}
+
+	.deck .card{
+		width: 21%;
+		height: 110px;
+	}
+
+	.deck .card.show{
+		font-size: 33px;
+	}
+}

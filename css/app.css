@@ -178,6 +178,7 @@ h1 {
     /*margin: 0 0px 0 100px;*/
 }
 
+/*sweetalert custom css*/
 .swal-text{
     word-spacing: 2px;
 }
@@ -187,7 +188,8 @@ h1 {
     height: 80px;
 }
 
-.rock_lee{
-    background-image: url('../img/rock-lee.png');
-    background-size: cover;
+@media screen and (min-width: 800px){
+    body{
+        padding: 0 200px;
+    }
 }
