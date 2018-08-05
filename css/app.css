@@ -178,7 +178,16 @@ h1 {
     /*margin: 0 0px 0 100px;*/
 }
 
-/*background: url(../img/71840.jpg);
-background-size: cover;
-    background-position: -420px 0;
-    background-repeat: no-repeat;*/
+.swal-text{
+    word-spacing: 2px;
+}
+
+.swal_icon img{
+    width: 80px;
+    height: 80px;
+}
+
+.rock_lee{
+    background-image: url('../img/rock-lee.png');
+    background-size: cover;
+}
