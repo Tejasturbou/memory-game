@@ -1,20 +1,52 @@
-# Memory Game Project
+# Memory Game
 
-## Table of Contents
+## Project Purpose
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+This is a udacity course project. The purpose of the project is to demonstrate mastery of JavaScript.
 
-## Instructions
+## How to Load the Game
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* Clone this [repository](https://github.com/Tejasturbou/memory-game) and open index.html... or
+* Play online: [Memory Game](https://tejasturbou.github.io/memory-game/)
 
-To get started, open `js/app.js` and start building out the app's functionality
+### How to Play the Game
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Game Deck consist of 16 cards. It has total 8 pairs of identical cards. Player has to find all 8 pairs of cards to complete the game.
 
-## Contributing
+On every turn:
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* Player has to select a card to reveal its symbol.
+* Next, player selects another card to try and match previous symbol.
+* If both the cards do not match, then the cards flip to their original form.
+* If both the cards match, then the cards stay flipped.
+* The game ends once all the cards are matched.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+### Result and Star Rating
+
+* Total number of moves and minimum time taken to complete the game are displayed at the end of the game.
+* Based on number of moves and minimum time taken, total number of stars a player gets is decided.
+* Maximum number of stars a player can get is 3.
+
+## Screenshots
+
+![On Screen Load](/tejasturbou/memory-game/blob/master/screenshots/start-screen.JPG)
+![During Game](/tejasturbou/memory-game/blob/master/screenshots/During-the-game.JPG)
+![End Game](/tejasturbou/memory-game/blob/master/screenshots/end-game.JPG)
+
+## Resources Used
+
+### jQuery:
+
+* https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+
+### Array Shuffle:
+
+* Shuffle function from [Stackoverflow](http://stackoverflow.com/a/2450976)
+
+### Modal:
+
+* https://sweetalert.js.org/guides/
+
+### Udacity Resources:
+
+* https://review.udacity.com/#!/rubrics/591/view

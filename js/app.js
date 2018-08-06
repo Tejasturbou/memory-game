@@ -1,4 +1,4 @@
-
+"use strict";
 let openCount = 0;
 let solved = 0; let clock;
 let timer = 0;
