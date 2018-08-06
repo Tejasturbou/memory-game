@@ -29,9 +29,9 @@ On every turn:
 
 ## Screenshots
 
-![On Screen Load](/tejasturbou/memory-game/blob/master/screenshots/start-screen.JPG)
-![During Game](/tejasturbou/memory-game/blob/master/screenshots/During-the-game.JPG)
-![End Game](/tejasturbou/memory-game/blob/master/screenshots/end-game.JPG)
+![On Screen Load](/Tejasturbou/memory-game/tree/master/screenshots/start-screen.JPG)
+![During Game](/Tejasturbou/memory-game/tree/master/screenshots/During-the-game.JPG)
+![End Game](/Tejasturbou/memory-game/tree/master/screenshots/end-game.JPG)
 
 ## Resources Used
 
