@@ -29,8 +29,13 @@ On every turn:
 
 ## Screenshots
 
+* Starting Screen
 ![start-screen](https://user-images.githubusercontent.com/37811048/43757636-0e5a546e-9a37-11e8-80ac-fce195461fc7.JPG)
+
+* During the Game
 ![during-the-game](https://user-images.githubusercontent.com/37811048/43757599-e4f1ee16-9a36-11e8-8d03-bdba95128345.JPG)
+
+* End Game
 ![end-game](https://user-images.githubusercontent.com/37811048/43757627-ff714066-9a36-11e8-86db-e05ce9861926.JPG)
 
 ## Resources Used
